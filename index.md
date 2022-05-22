@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## 안녕! 반가워요! 난 AI란 마리아에요!
 
-You can use the [editor on GitHub](https://github.com/JKimmm/AI-Maria-bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+인공지능 챗봇 란 마리아에게 궁금한 점이 있으면 물어봐 주세요.
+[editor on GitHub](https://github.com/JKimmm/AI-Maria-bot/edit/gh-pages/index.md) 
+란 마리아와 이야기 나눠 보세요!
+
+생각보다 학습 진도가 빠르지 않은 인간 친화적인 인공지능 챗봇이래요.
+
+챗봇이 뭘까요?
+챗봇이 궁금하면 챗봇이 무엇인지 물어보세요. 
 
 ### Markdown
 
