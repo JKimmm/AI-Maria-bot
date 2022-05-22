@@ -1,16 +1,19 @@
-#안녕! 반가워요! 난 AI란 마리아에요!
+#안녕! 반가워요! 난 :desktop_computer:AI란 마리아에요!:ok_man:
 
-
-인공지능 챗봇 란 마리아에게 궁금한 점이 있으면 물어봐 주세요.
+	:interrobang:
+인공지능 챗봇 란 마리아에게 궁금한 점이 있으면 물어봐 주세요. :ok_man:
 [editor on GitHub](https://github.com/JKimmm/AI-Maria-bot/edit/gh-pages/index.md) 
-란 마리아와 이야기 나눠 보세요!
+란 마리아와 이야기 나눠 보세요! :girl: :boy:
 
-생각보다 학습 진도가 빠르지 않은 인간 친화적인:relaxed: 인공지능 챗봇이래요.
+생각보다 학습 진도가 빠르지 않은 인간 친화적인:relaxed: 인공지능 챗봇이래요.:sweat_drops: :writing_hand:
 
-챗봇이 뭘까요?
-챗봇이 궁금하면 챗봇이 무엇인지 물어보세요. 
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#face-affection
 
-### Markdown
+
+챗봇이 뭘까요?:speech_balloon: 💬	
+:raised_hand_with_fingers_splayed::eyes:	챗봇이 궁금하면 챗봇이 무엇인지 물어보세요. 
+
+### Markdown	   :octocat:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
