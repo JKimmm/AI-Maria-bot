@@ -5,7 +5,7 @@
 [editor on GitHub](https://github.com/JKimmm/AI-Maria-bot/edit/gh-pages/index.md) 
 란 마리아와 이야기 나눠 보세요!
 
-생각보다 학습 진도가 빠르지 않은 인간 친화적인 인공지능 챗봇이래요.
+생각보다 학습 진도가 빠르지 않은 인간 친화적인:relaxed: 인공지능 챗봇이래요.
 
 챗봇이 뭘까요?
 챗봇이 궁금하면 챗봇이 무엇인지 물어보세요. 
