@@ -1,4 +1,4 @@
-#안녕! 반가워요! 난 :desktop_computer:AI란 마리아에요!:ok_man:
+#안녕! 반가워요! 난 	:desktop_computer:	AI란 마리아에요!	:ok_man:	
 
 	:interrobang:
 인공지능 챗봇 란 마리아에게 궁금한 점이 있으면 물어봐 주세요. :ok_man:
